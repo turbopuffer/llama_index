@@ -44,7 +44,7 @@ keywords = [
 ]
 dependencies = [
     "llama-index-readers-file>=0.5.0,<0.6",
-    "lxml>=5.1.0,<6",
+    "lxml>=5.1.0,<7",
     "unstructured>=0.14.3,<0.19",
     "llama-index-llms-openai>=0.5.0,<0.6",
     "llama-index-core>=0.13.0,<0.15",
